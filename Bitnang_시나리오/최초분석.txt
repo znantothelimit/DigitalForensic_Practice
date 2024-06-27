@@ -1,0 +1,8 @@
+1. /vol_vol2/Users/forensic/Desktop/영화 시나리오/Phantom.pdf
+-> .pdf->.zip  확장자 변조 파일, 압축 해제 시 암호화 되어 있음.
+
+2. /vol_vol2/Users/forensic/Desktop/영화 시나리오/명량.pdf
+-> .pdf->.zip  확장자 변조 파일, 압축 해제 시 암호화 되어 있음. DLTKDDJQTSMSEMT
+
+3. /vol_vol2/Program Files (x86)/FileZilla Server/FileZilla Server.log
+-> FTP 서버 로그

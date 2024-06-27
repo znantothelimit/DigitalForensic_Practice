@@ -1,0 +1,40 @@
+﻿Created By AccessData® FTK® Imager 4.2.0.13 
+
+Case Information: 
+Acquired using: ADI4.2.0.13
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\Test\이미지:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 101
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 1,638,400
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Blade USB Device
+ Drive Serial Number: 4C530001040725104371
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 800 MB
+ Sector count:    1638400
+ Removable drive: True
+[Computed Hashes]
+ MD5 checksum:    
+ SHA1 checksum:   
+
+Image Information:
+ Acquisition started:   Sat Jun 15 12:56:50 2019
+ Acquisition finished:  Sat Jun 15 12:56:55 2019
+ Segment list:
+  D:\Test\이미지.001

@@ -1,0 +1,50 @@
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> Connected on port 21, sending welcome message...
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> 220-FileZilla Server 0.9.60 beta
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> 220-written by Tim Kosse (tim.kosse@filezilla-project.org)
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> 220 Please visit https://filezilla-project.org/
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> USER anonymous
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> 331 Password required for anonymous
+(000001) 2019-06-15 오전 10:47:02 - (not logged in) (192.168.2.26)> PASS ******************
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 230 Logged on
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> SYST
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 215 UNIX emulated by FileZilla
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> PWD
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 257 "/" is current directory.
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> TYPE I
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 200 Type set to I
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> SIZE /
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 550 File not found
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> CWD /
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 250 CWD successful. "/" is current directory.
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> PASV
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 227 Entering Passive Mode (192,168,2,44,215,140)
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> LIST -l
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 150 Opening data channel for directory listing of "/"
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 226 Successfully transferred "/"
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> QUIT
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> 221 Goodbye
+(000001) 2019-06-15 오전 10:47:02 - anonymous (192.168.2.26)> disconnected.
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> Connected on port 21, sending welcome message...
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> 220-FileZilla Server 0.9.60 beta
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> 220-written by Tim Kosse (tim.kosse@filezilla-project.org)
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> 220 Please visit https://filezilla-project.org/
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> USER anonymous
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> 331 Password required for anonymous
+(000002) 2019-06-15 오전 10:47:05 - (not logged in) (192.168.2.26)> PASS ******************
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 230 Logged on
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> SYST
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 215 UNIX emulated by FileZilla
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> PWD
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 257 "/" is current directory.
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> TYPE I
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 200 Type set to I
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> SIZE /명량.pdf
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 213 1926536
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> CWD /명량.pdf
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 550 CWD failed. "/명량.pdf": directory not found.
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> PASV
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 227 Entering Passive Mode (192,168,2,44,202,98)
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> RETR /명량.pdf
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 150 Opening data channel for file download from server of "/명량.pdf"
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> 226 Successfully transferred "/명량.pdf"
+(000002) 2019-06-15 오전 10:47:05 - anonymous (192.168.2.26)> disconnected.

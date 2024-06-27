@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\hks56\Desktop\진환 자료\진환 디지털 포렌식\실기\022-2-1-268\볼륨암호화(BitLocker) 실습\bitlocker_사본:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Verification Hashes]
+ MD5 verification hash: 2ab0e2fe01cb24c3adf42ce1e090a076
+ SHA1 verification hash: fdce15e538d3ddc91bbbc53e25d23b0aeb998ddf
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 204,800
+[Image]
+ Image Type: E01
+ Case number:  
+ Evidence number:  
+ Examiner:  
+ Notes:  
+ Acquired on OS: Win 201x
+ Acquired using: ADI4.7.1.2
+ Acquire date: 2023-10-15 오후 2:40:01
+ System date: 2023-10-15 오후 2:40:01
+ Unique description: untitled
+ Source data size: 100 MB
+ Sector count:    204800
+[Computed Hashes]
+ MD5 checksum:    2ab0e2fe01cb24c3adf42ce1e090a076
+ SHA1 checksum:   fdce15e538d3ddc91bbbc53e25d23b0aeb998ddf
+
+Image Information:
+ Acquisition started:   Sun Jun 16 20:07:17 2024
+ Acquisition finished:  Sun Jun 16 20:07:18 2024
+ Segment list:
+  C:\Users\hks56\Desktop\진환 자료\진환 디지털 포렌식\실기\022-2-1-268\볼륨암호화(BitLocker) 실습\bitlocker_사본.001

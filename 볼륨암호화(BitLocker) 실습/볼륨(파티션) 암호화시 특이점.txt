@@ -1,0 +1,20 @@
+일단 중요사항! 무결성 유지를 위해 해당 이미지파일(혹은 증거원본 USB 등)에 대한 사본 이미지 재생성 후 진행!!!
+분석 또한 사본으로 진행!!!!!
+이 때, HxD로 PBR 내용 확인해야 하므로 RAW(.001)파일로 이미징!
+
+해당 PBR(VBR) 섹터 내용이 다음과 같이 시작.
+ëX-FVE-FS-
+FVE(FULL VOLUME ENCRYPTION)의 약자 확인 시 BitLocker로 암호화되었음을 알 수 있음!!!!!
+
+tip)
+아래와 같은 내용 확인해도 File System이 FAT32가 아님! 
+NO NAME    FAT32   3ÉŽÑ¼ô
+그냥 MBR 해당 Partition Table의 FS info 필드(혹은 FTK Imager에서) 보고 판단!
+
+볼륨 암호화 확인 시 FTK Imager에서 해당 사본 이미지 파일 불러와서 우클릭 후 Image Mounting함.
+(Windows에서) 복구를 위해서는 무조건 Image Mounting 필수!!!
+그 다음 Windows에서 BitLocker 사용하여 알맞은 키값으로 복호화 한 후, 
+Autopsy/Encase에서 분석 위해 복호화한 Mounting된 드라이브 FTK에서 이미징 후 분석 진행.
+
+필자의 경우 Windows11 Home 사용 중으로, BitLocker 사용불가.
+과정만 머릿속에 익히면 문제없음.

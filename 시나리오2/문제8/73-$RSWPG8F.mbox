@@ -1,0 +1,196 @@
+From 1747007533845996078@xxx Tue Oct 18 06:56:55 +0000 2022
+X-GM-THRID: 1747007069981648722
+X-Gmail-Labels: =?UTF-8?B?67Cb7J2A7Y647KeA7ZWoLOykkeyalO2OuOyngO2VqCzrp4jsp4Drp4nsnLw=?=
+ =?UTF-8?B?66GcIOyXsCDsi5zqsIQs6rCc7J247KCV67O0IOy5tO2FjOqzoOumrA==?=
+Delivered-To: jewellery.na79@gmail.com
+Received: by 2002:adf:e4d2:0:0:0:0:0 with SMTP id v18csp1780497wrm;
+        Mon, 17 Oct 2022 23:56:55 -0700 (PDT)
+X-Received: by 2002:a05:6871:90:b0:136:b9e8:a024 with SMTP id u16-20020a056871009000b00136b9e8a024mr16720542oaa.60.1666076215702;
+        Mon, 17 Oct 2022 23:56:55 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1666076215; cv=none;
+        d=google.com; s=arc-20160816;
+        b=yW7zcNIxf6HKvuYMDwsYBHDt8ywgxCvg1YPCQlH5xR2CnICGau7xY5Y4DTs6nvdKR4
+         gWVpnbO/XpvloiW3H8u98M7iQZf4tNL5hxO36KGzadAPGl3DlO0c5qr2gdnHriYl1445
+         gRcSOw7DmQroGWS+bLWfpmosSBLehJLTARU2tXGQYWORavN4FNXPFWkNfACCTLR9mhKZ
+         ipB1HzZda0dV7G9Y9kQpyNMsLdldtKhiNE8TPXIUHTY84gCJJZaKvDUQoRnU3eMtlLfp
+         l/QMu/TWgXgQjSER8jJ7LtdJBUMa3aIb9ejiNH7Ig0QQarCLwzxey2tBpNTR6rwecGnq
+         LcMA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=UA3PtpiXEaIVc8Ex9Eq4wWvtiGqdAxNaT+RZPiSMDU0=;
+        b=h4s+YTcH69w9ZD5+iNP5jMatfLP1W1dqdq5NxipSRZDDi7lJQLTyqKhjIaNbhqG4wg
+         F2jkgqIdlpbdLELGUSh55VPdlKMUoLYmlj/w2Q66Kws9pR2IEcUXd6qRbSHu/N3h+dBV
+         mT3mpy6uEio7Y7YGCRvfijoNCsJFC+VdzjvUz9NUpy9iuDMdm0BSb2VKOFYo+uClRZk6
+         QHM6KKWc2O1pgXMKQruYEeuWTUly2aSYespTzCAzuB4eyH/UCCS8nQk/zTP+43L+b85R
+         /O/BX5Kf9KH7e2rwiVzgyJCNb97wZ8TyWt/TV3vIfBgwX0roeItmu91QHK8NRIYiPeYm
+         5WXg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=LBjUSrfb;
+       spf=pass (google.com: domain of nstyxs@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=nstyxs@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+Return-Path: <nstyxs@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id d21-20020a05683018f500b006618e359252sor1778924otf.9.2022.10.17.23.56.55
+        for <jewellery.na79@gmail.com>
+        (Google Transport Security);
+        Mon, 17 Oct 2022 23:56:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of nstyxs@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20210112 header.b=LBjUSrfb;
+       spf=pass (google.com: domain of nstyxs@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=nstyxs@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=UA3PtpiXEaIVc8Ex9Eq4wWvtiGqdAxNaT+RZPiSMDU0=;
+        b=LBjUSrfbo/J3lqz7ckYFo7zCyvj4N0MTx1vLocWLUTKwjtm/W+kkm7ABSBwTCK7+Ds
+         DHAVs4lFUmT7xnKOujehUj6Q+db+CA5GWDlQ9XOrcFOarMoo1tOW3N4XonV0QBNO10X9
+         FqHcTT518c1VTss9QGAMCgJamTAbQ3R1JM73NwUX0TdR32hj3wD3aNZRNiITsl0nQkJN
+         ioLxOgm1Fno+q+qh0onlB9RCyF0HqL7qdCVte1u2NOeqR6bpXpZi9I5S3UvIM92hrg8I
+         tFU2iHi3LkpDJlaZOg2xlAFJlHvxGE03A4cF6CFi41eizVq4atl9NdGEkB5hl183J9oh
+         zX6g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=UA3PtpiXEaIVc8Ex9Eq4wWvtiGqdAxNaT+RZPiSMDU0=;
+        b=hzACOE1UVpKCS1YaVGloeT+DKP0tiZMo3fHpMLOB0fRKG8UXhwpGClDxGfroIx1jN9
+         UTgivzGqrs6Ypt9Uvrh95nApJDdJCvYkZrRX6Lvc+u7k3yi0/iul1tU/ydnNEI6CM+ZL
+         RmHP+OqGS37E8j8WNxSeYSiezpNarV6ouvKxFNOF8Qut62bJYgc7rRADzoh92jWo6ogB
+         PAco1sWOcXbfmEH07dwJhm75JVq+ml9aBUty84tcp49xAhJiStirlf8CDCoz+7yJ4aih
+         Yuy3KaXKFeFjhD2jGewI7qeOBHQwHHi9k5crQ1Jak9TcR2fT3/NG0XWIX0iewu/825g5
+         eQ5Q==
+X-Gm-Message-State: ACrzQf0FrBE2uiX97ROWC76g3clCQ2tfhBnj6VYPlOnpf/AZRuRLneBP
+	T6S4WqfTwAWftXM6Rmt6mWBiJ8SskdxHM9UoeGDxhlUZ
+X-Google-Smtp-Source: AMsMyM468KOyfbuhCaEGgg22QaOjlSG9KKXXCBlCXzGr6aPI66xg3omXhn93rYF4Nye0B3v9cy2J9MAQJj2nVrhNnFc=
+X-Received: by 2002:a05:6830:141:b0:661:acd7:de with SMTP id
+ j1-20020a056830014100b00661acd700demr732071otp.367.1666076214971; Mon, 17 Oct
+ 2022 23:56:54 -0700 (PDT)
+MIME-Version: 1.0
+References: <CACoj=9JkHDw98Re5OVMSgYwBRy1L1EdxkooU2HXGVLM7ar8EXg@mail.gmail.com>
+In-Reply-To: <CACoj=9JkHDw98Re5OVMSgYwBRy1L1EdxkooU2HXGVLM7ar8EXg@mail.gmail.com>
+From: choi sungwoon <nstyxs@gmail.com>
+Date: Tue, 18 Oct 2022 15:56:42 +0900
+Message-ID: <CAAddZMonTXkjvMQL=a6X9DycwJVVYrGaB93gubzxo_3b9D_M0A@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IOuMgO2RnOuLmA==?=
+To: Boseok Na <jewellery.na79@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000f6516b05eb4998aa"
+
+--000000000000f6516b05eb4998aa
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+7JWI6re4656Y64+EIOyXsOudve2VmOugpOqzoCDtlojripTrjbAsIOuCmOuekSDsnpDso7wg6rGw
+656Y7ZWY642YIOqzs+yXkOyEnCDqsIDriqXtlaDqsoMg6rCZ7JWELg0K6re4IOyqvSDsgqzsnqXs
+nbQg7J28IOq8vOq8vO2eiCDtlZjquLDrj4TtlZjqs6AsIOuYkCDsnoXrj4Qg66y06rGw7Jq0IOyC
+rOuejOydtOudvOyEnC4NCg0K66y86rG07J2AIOyWuOygnCDrk6TslrTsmKzqsoMg6rCZ7JWEPw0K
+66+466asIO2VnCDrsogg7JWM66Ck7KSYLiDqt7jrnpjslbwg64KY64+EIOykgOu5hO2VmOqzoCDs
+oIDsqr3sl5Drj4Qg7IK07KedIOyWmOq4sOyigCDtlbTrhpPsnLzroKTqs6DtlZjri4jquYwuDQrs
+lYTrrLTtirwg7IaQ7JeQIOuTpOyWtOyYpOuptCDsl7Drnb3spJgNCg0K6re466as6rOgIOyVveyG
+je2VnOqxtCDrs4Drj5nsl4bripTqsbDsp4A/DQoNCjIwMjLrhYQgMTDsm5QgMTjsnbwgKO2ZlCkg
+7Jik7ZuEIDM6NTIsIEJvc2VvayBOYSA8amV3ZWxsZXJ5Lm5hNzlAZ21haWwuY29tPuuLmOydtCDs
+npHshLE6DQoNCj4g7Ja065a76rKMLi4uIOydvCDsspjrpqztlaDrp4ztlZwg6rOz7J2AIOywvuyc
+vOyFqOydhOq5jOyalD8NCj4NCj4g7KCA67KI7JeQIOunjOuCmOyEnCDrp5DslIDrk5zrprDqsoPs
+spjrn7wg7LKY66as7ZWgIOqzs+unjCDtmZXsi6TtlbQg7KeA66m0DQo+IOusvOqxtOydgCDsoJzq
+sIAg7J6l64u07ZWY6rOgIOq1rO2VtOyYpOqyoOyKteuLiOuLpC4NCj4NCj4g6re466CH6rKMIOyy
+mOumrO2VmOqzoCDrgpjrqbQgNDAlIOyVveyGjeuTnOumrOqzoOyalC4NCj4NCj4g7KGw6riIIOq4
+ie2VtOyEnCDqt7jrn6zri4gg7ZmV7Iuk7ZW07KeA64qU64yA66GcIOuwlOuhnCDsl7Drnb0g7ZWc
+67KIIOu2gO2DgeuTnOugpOyalC4NCj4NCj4NCg==
+--000000000000f6516b05eb4998aa
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+7JWI6re4656Y64+EIOyXsOudve2VmOugpOqzoCDtlojripTrjbAsIOuC
+mOuekSDsnpDso7wg6rGw656Y7ZWY642YIOqzs+yXkOyEnCDqsIDriqXtlaDqsoMg6rCZ7JWELjxk
+aXY+6re4IOyqvSDsgqzsnqXsnbQg7J28IOq8vOq8vO2eiCDtlZjquLDrj4TtlZjqs6AsIOuYkCDs
+noXrj4Qg66y06rGw7Jq0IOyCrOuejOydtOudvOyEnC48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2
+PuusvOqxtOydgCDslrjsoJwg65Ok7Ja07Jis6rKDIOqwmeyVhD88L2Rpdj48ZGl2PuuvuOumrCDt
+lZwg67KIIOyVjOugpOykmC4g6re4656Y7JW8IOuCmOuPhCDspIDruYTtlZjqs6Ag7KCA7Kq97JeQ
+64+EIOyCtOynnSDslpjquLDsooAg7ZW064aT7Jy866Ck6rOg7ZWY64uI6rmMLjwvZGl2PjxkaXY+
+7JWE66y07Yq8IOyGkOyXkCDrk6TslrTsmKTrqbQg7Jew65297KSYPGJyPjwvZGl2PjxkaXY+PGJy
+PjwvZGl2PjxkaXY+6re466as6rOgIOyVveyGje2VnOqxtCDrs4Drj5nsl4bripTqsbDsp4A/wqA8
+L2Rpdj48L2Rpdj48YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiIGNs
+YXNzPSJnbWFpbF9hdHRyIj4yMDIy64WEIDEw7JuUIDE47J28ICjtmZQpIOyYpO2bhCAzOjUyLCBC
+b3Nlb2sgTmEgJmx0OzxhIGhyZWY9Im1haWx0bzpqZXdlbGxlcnkubmE3OUBnbWFpbC5jb20iPmpl
+d2VsbGVyeS5uYTc5QGdtYWlsLmNvbTwvYT4mZ3Q764uY7J20IOyekeyEsTo8YnI+PC9kaXY+PGJs
+b2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAu
+OGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDox
+ZXgiPjxkaXYgZGlyPSJsdHIiPuyWtOuWu+qyjC4uLiDsnbwg7LKY66as7ZWg66eM7ZWcIOqzs+yd
+gCDssL7snLzshajsnYTquYzsmpQ/PGRpdj48YnI+PC9kaXY+PGRpdj7soIDrsojsl5Ag66eM64KY
+7IScIOunkOyUgOuTnOumsOqyg+yymOufvCDsspjrpqztlaAg6rOz66eMIO2ZleyLpO2VtCDsp4Dr
+qbQ8L2Rpdj48ZGl2PuusvOqxtOydgCDsoJzqsIAg7J6l64u07ZWY6rOgIOq1rO2VtOyYpOqyoOyK
+teuLiOuLpC48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Puq3uOugh+qyjCDsspjrpqztlZjqs6Ag
+64KY66m0IDQwJSDslb3sho3rk5zrpqzqs6DsmpQuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7s
+obDquIgg6riJ7ZW07IScIOq3uOufrOuLiCDtmZXsi6TtlbTsp4DripTrjIDroZwg67CU66GcIOyX
+sOudvSDtlZzrsogg67aA7YOB65Oc66Ck7JqULjxicj48ZGl2Pjxicj48L2Rpdj48L2Rpdj48L2Rp
+dj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCg==
+--000000000000f6516b05eb4998aa--
+
+From 1747007231975675618@xxx Tue Oct 18 06:52:07 +0000 2022
+X-GM-THRID: 1747007069981648722
+X-Gmail-Labels: =?UTF-8?B?67O06rSA66mU7J287ZWoLOuztOuCuO2OuOyngO2VqA==?=
+ =?UTF-8?B?LOuniOyngOunieycvOuhnCDsl7Ag7Iuc6rCE?=
+MIME-Version: 1.0
+Date: Tue, 18 Oct 2022 15:52:03 +0900
+Message-ID: <CACoj=9JkHDw98Re5OVMSgYwBRy1L1EdxkooU2HXGVLM7ar8EXg@mail.gmail.com>
+Subject: =?UTF-8?B?64yA7ZGc64uY?=
+From: Boseok Na <jewellery.na79@gmail.com>
+To: "nstyxs@gmail.com" <nstyxs@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000db422805eb49870f"
+
+--000000000000db422805eb49870f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+7Ja065a76rKMLi4uIOydvCDsspjrpqztlaDrp4ztlZwg6rOz7J2AIOywvuycvOyFqOydhOq5jOya
+lD8NCg0K7KCA67KI7JeQIOunjOuCmOyEnCDrp5DslIDrk5zrprDqsoPsspjrn7wg7LKY66as7ZWg
+IOqzs+unjCDtmZXsi6TtlbQg7KeA66m0DQrrrLzqsbTsnYAg7KCc6rCAIOyepeuLtO2VmOqzoCDq
+taztlbTsmKTqsqDsirXri4jri6QuDQoNCuq3uOugh+qyjCDsspjrpqztlZjqs6Ag64KY66m0IDQw
+JSDslb3sho3rk5zrpqzqs6DsmpQuDQoNCuyhsOq4iCDquIntlbTshJwg6re465+s64uIIO2ZleyL
+pO2VtOyngOuKlOuMgOuhnCDrsJTroZwg7Jew6529IO2VnOuyiCDrtoDtg4Hrk5zroKTsmpQuDQo=
+--000000000000db422805eb49870f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+7Ja065a76rKMLi4uIOydvCDsspjrpqztlaDrp4ztlZwg6rOz7J2AIOyw
+vuycvOyFqOydhOq5jOyalD88ZGl2Pjxicj48L2Rpdj48ZGl2PuyggOuyiOyXkCDrp4zrgpjshJwg
+66eQ7JSA65Oc66aw6rKD7LKY65+8IOyymOumrO2VoCDqs7Prp4wg7ZmV7Iuk7ZW0IOyngOuptDwv
+ZGl2PjxkaXY+66y86rG07J2AIOygnOqwgCDsnqXri7TtlZjqs6Ag6rWs7ZW07Jik6rKg7Iq164uI
+64ukLjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+6re466CH6rKMIOyymOumrO2VmOqzoCDrgpjr
+qbQgNDAlIOyVveyGjeuTnOumrOqzoOyalC48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PuyhsOq4
+iCDquIntlbTshJwg6re465+s64uIIO2ZleyLpO2VtOyngOuKlOuMgOuhnCDrsJTroZwg7Jew6529
+IO2VnOuyiCDrtoDtg4Hrk5zroKTsmpQuPGJyPjxkaXY+PGJyPjwvZGl2PjwvZGl2PjwvZGl2Pg0K
+--000000000000db422805eb49870f--
+
+From 1747007039529337731@xxx Tue Oct 18 06:49:04 +0000 2022
+X-GM-THRID: 1747006908883284830
+X-Gmail-Labels: =?UTF-8?B?67O06rSA66mU7J287ZWoLOuztOuCuO2OuOyngO2VqA==?=
+MIME-Version: 1.0
+Date: Tue, 18 Oct 2022 15:49:02 +0900
+Message-ID: <CACoj=9K0isnuLfBKwmEkponYcFpzFEwNFggGLT+pPGd+YC7u3A@mail.gmail.com>
+Subject: =?UTF-8?B?64yA7ZGc64uYIOuCmOuztOyEneyeheuLiOuLpA==?=
+From: Boseok Na <jewellery.na79@gmail.com>
+To: "nstyxs@gmail.com" <nstyxs@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000e4574e05eb497cf9"
+
+--000000000000e4574e05eb497cf9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+7J6Y7KeA64K07Iuc7KOgIOuMgO2RnOuLmCA/DQrsoJzqsIAg7Jes7K2k67O86rKMIOyeiOuKlOuN
+sCwg7Ja47KCcIOunjOuCmOyEnCDsiKAg7ZWc7J6UIO2VmOyLnOyjoD8NCu2OuO2VmOyLoCDrgqDs
+nYQg66+466asIOyVjOugpOyjvOyLnOuptCDsoJzqsIAg6re4IOyLnOqwhOyXkCDrp57stpTqsqDs
+irXri4jri6QuDQo=
+--000000000000e4574e05eb497cf9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+7J6Y7KeA64K07Iuc7KOgIOuMgO2RnOuLmCA/PGRpdj7soJzqsIAg7Jes
+7K2k67O86rKMIOyeiOuKlOuNsCwg7Ja47KCcIOunjOuCmOyEnCDsiKAg7ZWc7J6UIO2VmOyLnOyj
+oD88L2Rpdj48ZGl2Pu2OuO2VmOyLoCDrgqDsnYQg66+466asIOyVjOugpOyjvOyLnOuptCDsoJzq
+sIAg6re4IOyLnOqwhOyXkCDrp57stpTqsqDsirXri4jri6QuPC9kaXY+PGRpdj48YnI+PC9kaXY+
+PC9kaXY+DQo=
+--000000000000e4574e05eb497cf9--
+

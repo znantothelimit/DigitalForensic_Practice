@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\hks56\Desktop\진환 자료\진환 디지털 포렌식\실기\022-2-1-268\시나리오3\문제1\Scenario3_사본:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 3,740
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 60,088,320
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Glide USB Device
+ Drive Serial Number: 4C530000261228113331
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 29340 MB
+ Sector count:    60088320
+[Computed Hashes]
+ MD5 checksum:    d829f9fb2dad9a4772db1f5955003f96
+ SHA1 checksum:   cf6f5369f4be4eec83b3e894081745f46f160820
+
+Image Information:
+ Acquisition started:   Tue Jun 18 00:19:50 2024
+ Acquisition finished:  Tue Jun 18 00:39:12 2024
+ Segment list:
+  C:\Users\hks56\Desktop\진환 자료\진환 디지털 포렌식\실기\022-2-1-268\시나리오3\문제1\Scenario3_사본.E01

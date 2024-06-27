@@ -1,0 +1,66 @@
+1) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Windows/System32/spool/PRINTERS/FP00000.SPL
+/img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Windows/System32/spool/PRINTERS/FP00000.SHD
+ - 프린터 사용 관련 아티팩트
+ - 사용자 SID : S-1-5-21-1998824668-1248911011-2283617520-1002
+ - 모델명 Canon iP110 series, Canon iP110 series Print Processor
+
+2) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Downloads/Eraser 6.2.0.2993.exe
+ - 와이핑 도구 eraser 설치 흔적 발견
+
+3) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Downloads/FileZilla_3.62.0_win64_sponsored2-setup.exe
+ - FTP 서비스 filezilla 설치 흔적 발견
+
+4) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Downloads/현수야 자료 보낸다.msg
+ - 이현수에게 seongmin park이 보낸 이메일, SFTP ID/PW
+
+4-1) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Desktop/보낸파일.pdf
+ - 7) 한글 파일 내 써져 있는 것이랑 똑같은 내용, 메타데이터 author B의원 건축계획서
+
+5) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Program Files/Bandizip/data/skin.data/skin.xs
+/img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Program Files/Bandizip/data/skin.recovery.data/main.xs
+ - C언어 작성 프로그램, 반디집 관련으로 추정.
+
+6) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol3/9919.pdf
+ - 확장자변조파일(.jpg->.pdf), 지하철 화재?
+
+7) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/$RECYCLE.BIN/S-1-5-21-952798693-306004704-1019202299-1001/$R9RMM33.pdf
+ - 휴지통 파일, 확장자변조파일(.hwp->.pdf), 한글 파일 내 행동 요령 및 약도 은닉, 서초구 서초로 123, 2층 205호(피해자 사망장소 의심)
+
+8) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol4/20220831_163833.jpg
+ - 금전차용증서에 채권자 김재기 채무자 박성민 5억원 금전차용증서 
+ - EXIF 정보확인필요
+
+9) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/AppData/Local/Microsoft/Windows/Explorer/iconcache_256.db
+ - 암호화 파일 뭔지 모르겠음
+
+10) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol3/System Volume Information/AadRecoveryPasswordDelete
+/img_파티션2개복구_Reimaging_Scenario3.001/vol_vol3/System Volume Information/ClientRecoveryPasswordRotation
+ - 아까 c언어에서 rotate 잠깐 보긴 한듯?
+
+11) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol4/1.보험금청구서(기본).pdf
+ - 피보험자 박성민 서울시의회의원 질병상해 보험금 청구서, 주민번호 담겨져 있음 증거 USB 소유자 박성민것으로 추정됨
+
+11-1) 시관련 문서들 굉장히 많이 존재 usb 소유자 박성민것으로 추정
+
+12) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Desktop/금 전 차 용 증 서.hwp
+ - 금전차용증서 채권자 김재기 채무자 박성민 5억원 금전차용증서 
+ - 2022년 6월 30일까지 반환한다.
+
+13) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Program Files/FileZilla FTP Client/filezilla.log
+ - psm.ftp.com 
+ - STOR 20220831_163833.jpg, STOR 건축계획서.hwp
+
+13-1) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/AppData/Local/Microsoft/Outlook/seongmin.park11111@gmail.com.ost
+ - FTP 서버 주소, 아래 접속해서 다운로드 받아서 읽어봐. 이게 아마 행동요령 및 약도 은닉 파일 인듯?
+
+14) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol2/Users/bbb/Documents/카카오톡 받은 파일/KakaoTalk_Snapshot_20220907_161034.jpg
+ - 카카오톡 대화내역 캡처, 김재기 회장의 빚 변제 독촉 카톡 수신받음
+ - 스태가노그래피로 이현수와의 카톡 은닉 7천만원 빚 없던걸로, 추가 1억 
+ - 관련내용 이후 이메일로 송신 오늘 7시에 사무실에서 만나기로 함->이때 이현수 범행 추정	
+
+15) /img_파티션2개복구_Reimaging_Scenario3.001/vol_vol4/NPKI/Yessign/User/cn=박성민0012456789123456789,ou=abc,ou=personal1ab,p=yessign,c=kr/SignPri.key
+/img_파티션2개복구_Reimaging_Scenario3.001/vol_vol4/NPKI/Yessign/User/cn=박성민0012456789123456789,ou=abc,ou=personal1ab,p=yessign,c=kr/SignCert.der
+ - 박성민 명의 공인인증서 USB 소유자 박성민으로 추정 가능.
+
+16) Web History
+ - 살인교사, 법무법인, 범행도구, 두부손상 생존율 검색 등 범행에 필요한 자료 검색

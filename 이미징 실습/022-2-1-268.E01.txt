@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 제22회 디지털포렌식 전문가 2급 자격 실기시험
+Evidence Number: 001
+Unique Description: 
+Examiner: 022-2-1-268
+Notes: 증거 USB 이미징
+
+--------------------------------------------------------------
+
+Information for E:\022-2-1-268\문제1\022-2-1-268:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 3,740
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 60,088,320
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Glide USB Device
+ Drive Serial Number: 4C530000261228113331
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 29340 MB
+ Sector count:    60088320
+[Computed Hashes]
+ MD5 checksum:    ccf43bb150acc77aaf6fda7388bf6c17
+ SHA1 checksum:   fbb30767b52c8a0f1ce300ac73170f9cda47254e
+
+Image Information:
+ Acquisition started:   Sat Jun  1 22:25:50 2024
+ Acquisition finished:  Sat Jun  1 22:46:45 2024
+ Segment list:
+  E:\022-2-1-268\문제1\022-2-1-268.E01

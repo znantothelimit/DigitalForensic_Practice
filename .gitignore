@@ -1,0 +1,15 @@
+# Ignore all files with these extensions
+*.e01
+*.E01
+*.001
+*.exe
+*.dmp
+*.vhd
+*.vhdx
+
+# Ignore specific files with paths
+시나리오1/문제6/신청서.pdf
+레지스트리분석(REGA) 실습/레지스트리 하이브 파일 분석.hwp
+메모리 포렌식(Volatility) 실습/휘발성 증거 수집.hwp
+Jumplist
+Jumplist/*

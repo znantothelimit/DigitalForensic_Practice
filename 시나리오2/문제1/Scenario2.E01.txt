@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for E:\022-2-1-268\시나리오2\문제1\Scenario2:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 3,740
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 60,088,320
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Glide USB Device
+ Drive Serial Number: 4C530000261228113331
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 29340 MB
+ Sector count:    60088320
+[Computed Hashes]
+ MD5 checksum:    cd075702a6fddd0023373020dbd30472
+ SHA1 checksum:   ab2cd2e5dfcfe5e8ac9065c04c758ff51ad7737d
+
+Image Information:
+ Acquisition started:   Fri Jun 14 23:33:26 2024
+ Acquisition finished:  Fri Jun 14 23:53:19 2024
+ Segment list:
+  E:\022-2-1-268\시나리오2\문제1\Scenario2.E01
